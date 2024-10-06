@@ -1,15 +1,12 @@
 Conditional Practice Problems in Python 3.12.4
 
 Overview:
-
 This repository contains a collection of real-world conditional practice problems solved using Python 3.12.4. These problems focus on using conditional statements like if, elif, and else to simulate decision-making scenarios. This is an essential part of learning to think like a programmer and solving problems that require logical decision-making.
 
 Learning Journey:
-
 Conditionals are a key part of writing programs that respond to different situations based on input or circumstances. Through this repository, I’ve tackled a wide range of practical scenarios using conditionals. This hands-on experience has improved my ability to write decision-based logic and solve real-world problems efficiently.
 
 Technologies Used:
-
 Python 3.12.4
 Python is the primary programming language used to demonstrate how conditional statements can solve problems.
 
@@ -62,10 +59,8 @@ Apply special discounts during a festival period.
 Calculate the insurance premium based on the type of coverage and the insured amount.
 
 Conclusion:
-
 By solving these conditional problems, I’ve significantly improved my ability to write clean and efficient decision-making logic. I now have a better grasp of applying conditionals in real-world scenarios, which will help me as I progress in more complex programming tasks.
 
 Contributors:
-
 Prashasya Srivastava
 Beginner Python enthusiast passionate about learning data science.
